@@ -1,12 +1,26 @@
 body {
 	text-align: center;
 	margin-top: 50px;
+	background-color: black;
 	font-variant: small-caps;
-	font-family: "Courier New", Courier, monospace
-	color: blue;
+	font-family: "Arial Black", Gadget, sans-serif;
+	color: gold;
 }
 
 button,
 button:focus {
 	touch-action: manipulation;
 }
+
+button {
+	background-color: green;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: "Arial Black", Gadget, sans-serif;}
+
+
